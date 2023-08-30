@@ -13,4 +13,5 @@ cm.roberttwomey.com
 - (todo) Setup python development environment for xArm
 
 Python files: 
-- go-home.py
+- [go-home.py](xarm-python/go-home.py)
+- [go-corners-ikfast.py](xarm-python/go-corners.ikfast.py)
