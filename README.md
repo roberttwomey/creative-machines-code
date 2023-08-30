@@ -10,7 +10,7 @@ cm.roberttwomey.com
 
 ## Python Code Samples
 
-- Setup python development environment for xArm (to come)
+- (todo) Setup python development environment for xArm
 
 Python files: 
 - go-home.py
