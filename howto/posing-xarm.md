@@ -27,6 +27,13 @@ then using those positions to create motion programs with blockly.
 ## Blockly Code
 1. Select Blockly from the main menu
    - <img width="208" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/6fa5b153-4255-4a5a-a4f8-d0916093d381">
+2. Create a new file and give it a descriptive name:
+   - <img width="46" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/6bbbfb78-41c9-4f85-ae5d-a3f3254767e7">
+3. Add blocks and positions. Be sure to include pauses. Add entry and exit points.
+4. Here is code to pick up a can and move it to another position:
+   - <img width="636" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/6e3a69f6-557c-4552-a763-a75787a4e146">
+   - 
+
 
   
 
