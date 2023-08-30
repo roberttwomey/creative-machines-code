@@ -5,7 +5,7 @@ cm.roberttwomey.com
 
 - Install xArm software
 - Setup networking to communicate with xArm
-- Interactive Posing the xArm
+- [Interactive Posing the xArm](howto/posing-xarm.md)
 - Blockly basics xArm
 
 ## Python Code Samples
@@ -14,4 +14,7 @@ cm.roberttwomey.com
 
 Python files: 
 - [go-home.py](xarm-python/go-home.py)
-- [go-corners-ikfast.py](xarm-python/go-corners.ikfast.py)
+- [go-stretchout.py](xarm-python/go-stretchout.py)
+- [go-corners-ikfast.py](xarm-python/go-corners-ikfast.py)
+- [look-forward-ikfast.py](xarm-python/look-forward-ikfast.py)
+- [face-ikfast.py](xarm-python/face-ikfast.py) (requires opencv)
