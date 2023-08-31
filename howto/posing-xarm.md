@@ -58,4 +58,4 @@ Here is code I wrote to pick up a can and move it to another position:
 This took about 1 hour.
 
 ## Additional Materials
-- [JointSpeed]
+- [JointSpeed] in `degrees per second`. The default speed is about 30 degrees per second. I will demonstrate how to move faster, and what the tradeoffs are. 
