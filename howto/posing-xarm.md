@@ -1,4 +1,7 @@
 # Programming fixed movements with blockly and UFactory Studio
+- Recording joint positions (coordinates) with [Manual Movement](#manual-movement)
+- Writing [Blockly Code](#blockly-code) to move between those positions.
+- [Additional tips and tricks](#additional-materials)
 
 ## Manual Movement
 Using manual mode in UFactory studio to record joint (and gripper) positions with the xArm,
@@ -11,7 +14,7 @@ then using those positions to create motion programs with blockly.
 5. Click "Live Control"
    - <img width="212" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/f90ee0ec-061e-4ad9-80ae-cb596aab76f6">
 6. Hold "Zero Position" button to return to home position, if it is not already there.
-   - <img width="212" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/3c9619d8-0dbb-4cea-8323-9a39bd618ca1">
+   - [image]
 7. Press "Manual Mode" to enable manual posing:
    - <img width="147" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/73b77583-ff89-4f35-8bb1-58d8b8317d27"> <img width="155" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/02505694-1f47-4fba-bb86-7db9f669ee81">
 8. Move the robot to your desired first position, and click the clipboard icon to copy the joint positions. Save those in a local file:
@@ -29,18 +32,15 @@ then using those positions to create motion programs with blockly.
    - <img width="208" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/6fa5b153-4255-4a5a-a4f8-d0916093d381">
 2. Create a new file and give it a descriptive name:
    - <img width="46" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/6bbbfb78-41c9-4f85-ae5d-a3f3254767e7">
+3. Add block for starting settings.
+   - [move joint]
+   - [sleep]
+   - [set gripper]
+   - [zero position]
 3. Add blocks and positions. Be sure to include pauses. Add entry and exit points.
 4. Here is code to pick up a can and move it to another position:
    - <img width="636" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/6e3a69f6-557c-4552-a763-a75787a4e146">
    - 
 
-
-  
-
-
-
-
-
-
-
- 
+## Additional Materials
+- [JointSpeed]
