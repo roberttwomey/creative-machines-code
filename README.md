@@ -13,17 +13,26 @@ course website [cm.roberttwomey.com](http://cm.roberttwomey.com)
 - [Interactive Posing the xArm](howto/posing-xarm.md)
 
 ## Tools
-Toolhead Reference Drawing:
+Mounting things to the toolhead
 
-<img width="524" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/433d86c3-ca2b-4b8f-8ffd-997ebab2d948"> robot tool head (mm)
-
+- [Designing / 3D printing a custom tool]
 - Camera Mount
-- Designing / 3D printing a custom tool
+  - razr kiyo mount: [xarm_razr_holder.3dm](solids/xarm_razr_holder.3dm)
+  - general purpose (1/4") mount: [xarm7_toolhead.3dm](solids/xarm7_toolhead.3dm)
+- 3D model of arm
 
-Table Mount Reference Drawing: 
 
-<img width="250" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/39075fb5-83c4-4c2c-af09-7e594b9c4cbd"> robot base (mm)
+### Reference Drawings
+### Toolhead Reference Drawing
+robot tool head (mm)
+<img width="524" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/433d86c3-ca2b-4b8f-8ffd-997ebab2d948"> 
 
+
+
+
+### Table Mount Reference Drawing
+robot base (mm)
+<img width="250" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/39075fb5-83c4-4c2c-af09-7e594b9c4cbd"> 
 
 ## Python Code
 - [xArm Python SDK](https://github.com/xArm-Developer/xArm-Python-SDK)
