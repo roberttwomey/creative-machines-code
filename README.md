@@ -1,9 +1,9 @@
 # Code for Creative Machines 2023
 cm.roberttwomey.com
 
-- [xArm Howto](xarm-howto)
-- [Tools](tools)
-- [Python Code](python-code)
+- [xArm Howto](#xarm-howto)
+- [Tools](#tools)
+- [Python Code](#python-code)
 
 ## xArm Howto
 
