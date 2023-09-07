@@ -27,7 +27,7 @@ robot tool head (mm)<br>
 
 ### Table Mount Reference Drawing
 robot base (mm)<br>
-<img width="250" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/39075fb5-83c4-4c2c-af09-7e594b9c4cbd"> 
+<img width="400" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/39075fb5-83c4-4c2c-af09-7e594b9c4cbd"> 
 
 ## Python Code
 - [xArm Python SDK](https://github.com/xArm-Developer/xArm-Python-SDK)
