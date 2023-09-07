@@ -17,9 +17,9 @@ Mounting things to the toolhead
 
 - [Designing / 3D printing a custom tool]
 - Camera Mount
-  - razr kiyo mount: [xarm_razr_holder.3dm](solids/xarm_razr_holder.3dm)
+  - razer kiyo pro mount: [xarm_razer_holder.3dm](solids/xarm_razer_holder.3dm)
   - general purpose (1/4") mount: [xarm7_toolhead.3dm](solids/xarm7_toolhead.3dm)
-- 3D model of arm
+- 3D model of arm: [xArm7-3D-File-20190521.3dm](solids/xArm7-3D-File-20190521.3dm)
 
 
 ### Reference Drawings
