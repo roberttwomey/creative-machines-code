@@ -13,10 +13,17 @@ course website [cm.roberttwomey.com](http://cm.roberttwomey.com)
 - [Interactive Posing the xArm](howto/posing-xarm.md)
 
 ## Tools
-- Reference
-- <img width="524" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/433d86c3-ca2b-4b8f-8ffd-997ebab2d948">
+Toolhead Reference Drawing:
+
+<img width="524" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/433d86c3-ca2b-4b8f-8ffd-997ebab2d948"> robot tool head (mm)
+
 - Camera Mount
 - Designing / 3D printing a custom tool
+
+Table Mount Reference Drawing: 
+
+<img width="250" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/39075fb5-83c4-4c2c-af09-7e594b9c4cbd"> robot base (mm)
+
 
 ## Python Code
 - [xArm Python SDK](https://github.com/xArm-Developer/xArm-Python-SDK)
