@@ -31,7 +31,7 @@ located at top and bottom
 5. Model up your end effector. 
 
 ## Fabricate
-Either (A) export your model as a **stl** and 3d print it, or (B) export it as a vector image and laser cut it.
+Either (A) export your model as a **.STL** file and 3d print it, or (B) export it as a vector image (**.SVG**) and laser cut it.
 
 ## Reference
 - See the camera mounts on the main page:
