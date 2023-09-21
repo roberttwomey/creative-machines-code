@@ -22,7 +22,7 @@ Mounting tools and custom attachments to the robot.
 - 3D model of arm: [xArm7-3D-File-20190521.3dm](solids/xArm7-3D-File-20190521.3dm)
 
 ### Toolhead Reference Drawing
-robot tool head (mm)<br>
+xArm 5 LITE robot tool head (mm)<br>
 <img width="524" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/433d86c3-ca2b-4b8f-8ffd-997ebab2d948"> 
 
 ### Table Mount Reference Drawing
