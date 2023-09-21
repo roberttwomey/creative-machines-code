@@ -22,8 +22,8 @@ located at top and bottom
 
 ## Model Your Part
 1. We need to make a part that has **clearance holes** that match two or more of the mounting holes above.
-  - A clearance hole is wide enough to accomodate a screw of a given size, and can fit with a close fit, medium fit, or free fit.
-  - According to this Tapping Drill and Clearance chart, for an M6 screw with a free fit we want a hole that is 7mm in diameter.
+   - A clearance hole is wide enough to accomodate a screw of a given size, and can fit with a close fit, medium fit, or free fit.
+   - According to this Tapping Drill and Clearance chart, for an M6 screw with a free fit we want a hole that is 7mm in diameter.
 2. Recreate your dimensioned drawing showing the location of the screwholes.
 3. Create two **clearance holes** at the desired size (7mm), centered on those screw holes.
 4. Create an exterior profile that pleasingly matches with the size of the end effector mounting point (75mm circle). Or doesn't... you
