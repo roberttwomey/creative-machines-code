@@ -2,7 +2,7 @@
 course website [cm.roberttwomey.com](http://cm.roberttwomey.com)
 
 - [xArm Howto](#xarm-howto)
-- [Tools](#tools)
+- [Tools and End Effectors](#tools)
 - [Python Code](#python-code)
 
 ## xArm Howto
