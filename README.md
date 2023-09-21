@@ -15,7 +15,7 @@ course website [cm.roberttwomey.com](http://cm.roberttwomey.com)
 ## Tools
 Mounting tools and custom attachments to the robot.
 
-- [Designing / 3D printing a custom tool]
+- [Designing / 3D printing a custom end effector](howto/endeffector.md)
 - Camera Mount
   - razer kiyo pro mount: [xarm_razer_holder.3dm](solids/xarm_razer_holder.3dm)
   - general purpose (1/4") mount: [xarm7_toolhead.3dm](solids/xarm7_toolhead.3dm)
