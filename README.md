@@ -16,11 +16,15 @@ course website [cm.roberttwomey.com](http://cm.roberttwomey.com)
 ## Tools
 Mounting tools and custom attachments to the robot.
 
-- [Designing / 3D printing a custom end effector](howto/endeffector.md)
-- Camera Mount
-  - razer kiyo pro mount: [xarm_razer_holder.3dm](solids/xarm_razer_holder.3dm)
-  - general purpose (1/4") mount: [xarm7_toolhead.3dm](solids/xarm7_toolhead.3dm)
-- 3D model of arm: [xArm7-3D-File-20190521.3dm](solids/xArm7-3D-File-20190521.3dm)
+### Custom End Effector
+Follow the tutorial on: [Designing / 3D printing a custom end effector](howto/endeffector.md)
+
+<img width="290" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/d9ee51bc-7101-486e-aa5f-d9e738194aba"><br>
+[endeffector_plate_xarm5.3dm](../solids/endeffector_plate_xarm5.3dm)
+
+### Camera Mount
+- razer kiyo pro mount: [xarm_razer_holder.3dm](solids/xarm_razer_holder.3dm)
+- general purpose (1/4") mount: [xarm7_toolhead.3dm](solids/xarm7_toolhead.3dm)
 
 ## Reference Drawings
 
@@ -36,6 +40,9 @@ robot base (mm)<br>
 xArm5 3D file<br>
 <img width="400" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/d234b71b-06d4-445d-9501-6a8d30f53e9a">
 [https://www.ufactory.cc/wp-content/uploads/2023/04/xArm5XF1300.zip](https://www.ufactory.cc/wp-content/uploads/2023/04/xArm5XF1300.zip)
+
+xArm7 3D file<br>
+[xArm7-3D-File-20190521.3dm](solids/xArm7-3D-File-20190521.3dm)
 
 ## Python Code
 - [xArm Python SDK](https://github.com/xArm-Developer/xArm-Python-SDK)
