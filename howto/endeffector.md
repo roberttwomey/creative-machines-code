@@ -31,6 +31,12 @@ located at top and bottom
 're an artist!
 5. Model up your end effector. 
 
+### Laser Cut Plate
+<img width="290" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/d9ee51bc-7101-486e-aa5f-d9e738194aba">
+
+### 3D Printed Plate
+
+
 ## Fabricate
 Either (A) export your model as a **.STL** file and 3d print it, or (B) export it as a vector image (**.SVG**) and laser cut it.
 
