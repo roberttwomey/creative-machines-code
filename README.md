@@ -34,6 +34,7 @@ robot base (mm)<br>
 
 ### CAD Models
 xArm5 3D file<br>
+<img width="400" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/d234b71b-06d4-445d-9501-6a8d30f53e9a">
 [https://www.ufactory.cc/wp-content/uploads/2023/04/xArm5XF1300.zip](https://www.ufactory.cc/wp-content/uploads/2023/04/xArm5XF1300.zip)
 
 ## Python Code
