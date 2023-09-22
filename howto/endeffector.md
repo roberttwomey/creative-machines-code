@@ -32,8 +32,8 @@ located at top and bottom
 5. Model up your end effector. 
 
 ### End Effector Plate
-<img width="290" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/d9ee51bc-7101-486e-aa5f-d9e738194aba">
-<br> [endeffector-plate-xarm5.3dm](../solids/endeffector-plate-xarm5.3dm)
+<img width="290" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/d9ee51bc-7101-486e-aa5f-d9e738194aba"><br>
+[endeffector_plate_xarm5.3dm](../solids/endeffector_plate_xarm5.3dm)
 
 ### 3D Printed Plate
 
@@ -43,7 +43,7 @@ Either (A) export your model as a **.STL** file and 3d print it, or (B) export i
 
 ## Reference
 - See the camera mounts on the main page:
-  - razer kiyo pro mount: [xarm_razer_holder.3dm](solids/xarm_razer_holder.3dm)
-  - general purpose (1/4") mount: [xarm7_toolhead.3dm](solids/xarm7_toolhead.3dm)
+  - razer kiyo pro mount: [xarm_razer_holder.3dm](../solids/xarm_razer_holder.3dm)
+  - general purpose (1/4") mount: [xarm7_toolhead.3dm](../solids/xarm7_toolhead.3dm)
 - Tap and Drill Chart https://littlemachineshop.com/images/gallery/PDF/tapdrillsizes.pdf
 
