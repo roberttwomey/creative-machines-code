@@ -3,6 +3,7 @@ course website [cm.roberttwomey.com](http://cm.roberttwomey.com)
 
 - [xArm Howto](#xarm-howto)
 - [Tools and End Effectors](#tools)
+- [Reference Drawings](#reference-drawings)
 - [Python Code](#python-code)
 
 ## xArm Howto
@@ -21,6 +22,8 @@ Mounting tools and custom attachments to the robot.
   - general purpose (1/4") mount: [xarm7_toolhead.3dm](solids/xarm7_toolhead.3dm)
 - 3D model of arm: [xArm7-3D-File-20190521.3dm](solids/xArm7-3D-File-20190521.3dm)
 
+## Reference Drawings
+
 ### Toolhead Reference Drawing
 xArm 5 LITE robot tool head (mm)<br>
 <img width="524" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/433d86c3-ca2b-4b8f-8ffd-997ebab2d948"> 
@@ -28,6 +31,10 @@ xArm 5 LITE robot tool head (mm)<br>
 ### Table Mount Reference Drawing
 robot base (mm)<br>
 <img width="400" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/39075fb5-83c4-4c2c-af09-7e594b9c4cbd"> 
+
+### CAD Models
+xArm5 3D file<br>
+[https://www.ufactory.cc/wp-content/uploads/2023/04/xArm5XF1300.zip](https://www.ufactory.cc/wp-content/uploads/2023/04/xArm5XF1300.zip)
 
 ## Python Code
 - [xArm Python SDK](https://github.com/xArm-Developer/xArm-Python-SDK)
