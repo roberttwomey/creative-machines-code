@@ -31,8 +31,9 @@ located at top and bottom
 're an artist!
 5. Model up your end effector. 
 
-### Laser Cut Plate
+### End Effector Plate
 <img width="290" alt="image" src="https://github.com/roberttwomey/creative-machines-code/assets/1598545/d9ee51bc-7101-486e-aa5f-d9e738194aba">
+<br>[endeffector-plate-xarm5.3dm](../solids/endeffector-plate-xarm5.3dm)
 
 ### 3D Printed Plate
 
