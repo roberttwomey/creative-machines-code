@@ -1,7 +1,7 @@
 # How to Fabricate an End Effector for a Robot
-1. Determine your bolt pattern
-2. 3D model a part
-3. Fabricate (3d print, laser cut, hand drill)
+1. [Determine your bolt pattern](#bolt-pattern)
+2. [Model your part](#model-your-part)
+3. [Fabricate](#fabricate) (3d print, laser cut, hand drill)
    
 ## Bolt Pattern
 
