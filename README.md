@@ -48,7 +48,7 @@ xArm7 3D file<br>
 - [xArm Python SDK](https://github.com/xArm-Developer/xArm-Python-SDK)
 - [Setup Python development environment for xArm](howto/python-setup)
 
-Python code samples: 
+### xArm7 python code samples: 
 - [go-home.py](xarm-python/go-home.py)
 - [go-stretchout.py](xarm-python/go-stretchout.py)
 - [go-corners-ikfast.py](xarm-python/go-corners-ikfast.py)
