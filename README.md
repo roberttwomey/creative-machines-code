@@ -48,12 +48,18 @@ xArm7 3D file<br>
 - [xArm Python SDK](https://github.com/xArm-Developer/xArm-Python-SDK)
 - [Setup Python development environment for xArm](howto/python-setup)
 
+### xArm5 python code samples: 
+- [go-home_xarm5.py](xarm5-python/go-home_xarm5.py)
+- [go-stretchout_xarm5.py](xarm5-python/go-stretchout_xarm5.py)
+- [go-frontBack_xarm5.py](xarm5-python/go-frontBack_xarm5.py)
+- [go-frontForward_xarm5.py](xarm5-python/go-frontForward_xarm5.py)
+
 ### xArm7 python code samples: 
-- [go-home.py](xarm-python/go-home.py)
-- [go-stretchout.py](xarm-python/go-stretchout.py)
-- [go-corners-ikfast.py](xarm-python/go-corners-ikfast.py)
-- [look-forward-ikfast.py](xarm-python/look-forward-ikfast.py)
-- [face-ikfast.py](xarm-python/face-ikfast.py) (requires opencv)
+- [go-home.py](xarm7-python/go-home.py)
+- [go-stretchout.py](xarm7-python/go-stretchout.py)
+- [go-corners-ikfast.py](xarm7-python/go-corners-ikfast.py)
+- [look-forward-ikfast.py](xarm7-python/look-forward-ikfast.py)
+- [face-ikfast.py](xarm7-python/face-ikfast.py) (requires opencv)
 
 # Reference
 - xArm User Manual: ([download](http://download.ufactory.cc/xarm/en/xArm%20User%20Manual.pdf))
